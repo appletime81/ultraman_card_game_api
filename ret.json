@@ -1,0 +1,91 @@
+{
+  "德卡": {
+    "1": {
+      "C": [
+        {
+          "effect": "-",
+          "card_number": "BP01-030",
+          "battle_power_1": 5000,
+          "battle_power_2": null,
+          "battle_power_3": null
+        }
+      ],
+      "U": [
+        {
+          "effect": "[SIN]在對戰對手角色的TYPE為 【武裝】 期間，本角色的BP上升一級。",
+          "card_number": "BP01-029",
+          "battle_power_1": 5000,
+          "battle_power_2": 9000,
+          "battle_power_3": null
+        }
+      ],
+      "R": [
+        {
+          "effect": "[SIN]《當本角色登場時》我方可抽兩張牌。以此效果抽牌時，將一張我方手牌放回牌組下方。",
+          "card_number": "BP01-028",
+          "battle_power_1": 1000,
+          "battle_power_2": 7000,
+          "battle_power_3": null
+        }
+      ]
+    },
+    "2": {
+      "C": [
+        {
+          "effect": "-",
+          "card_number": "BP01-033",
+          "battle_power_1": 7000,
+          "battle_power_2": 11000,
+          "battle_power_3": null
+        }
+      ],
+      "U": [
+        {
+          "effect": "[SIN][DBL]在對戰對手角色的TYPE為 【敏捷】 期間，本角色的BP上升一級。",
+          "card_number": "BP01-032",
+          "battle_power_1": 6000,
+          "battle_power_2": 10000,
+          "battle_power_3": 15000
+        }
+      ],
+      "RR": [
+        {
+          "effect": "[DBL]《當本角色登場時》可將本角色，和與本角色相鄰左方或右方的一名超人力霸王交換位置。",
+          "card_number": "BP01-031",
+          "battle_power_1": 7000,
+          "battle_power_2": 11000,
+          "battle_power_3": 14000
+        }
+      ]
+    },
+    "3": {
+      "C": [
+        {
+          "effect": "-",
+          "card_number": "BP01-036",
+          "battle_power_1": 9000,
+          "battle_power_2": 13000,
+          "battle_power_3": 17000
+        }
+      ],
+      "U": [
+        {
+          "effect": "[TRP]《當本角色登場時》可使本角色相鄰兩側的超人力霸王，在此回合期間，BP+1000。",
+          "card_number": "BP01-035",
+          "battle_power_1": 7000,
+          "battle_power_2": 13000,
+          "battle_power_3": 16000
+        }
+      ],
+      "RRR": [
+        {
+          "effect": "[DBL][TRP]所有SINGLE的我方 『德卡』 和 『特利卡』 ，在有本角色以外的TRIPLE我方超人力霸王存在期間，BP上升一級。本效果不重複。",
+          "card_number": "BP01-034",
+          "battle_power_1": 7000,
+          "battle_power_2": 12000,
+          "battle_power_3": 18000
+        }
+      ]
+    }
+  }
+}
